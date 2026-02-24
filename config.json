@@ -1,0 +1,24 @@
+{
+  "base_hourly_rate": 22.66,
+  "overtime_hourly_rate": 34.37,
+  "holiday_hourly_rate": 33.99,
+  "shift_diff_per_hour": 1.5,
+
+  "pretax_benefits_per_paycheck": {
+    "dental_pretax": 10.24,
+    "health_pretax": 20.0,
+    "vision_pretax": 3.25
+  },
+
+  "k401_percent": 0.04,
+
+  "fica_rates": {
+    "oasdi": 0.062,
+    "medicare": 0.0145
+  },
+
+  "withholding_estimates": {
+    "federal_effective_rate": 0.0821,
+    "state_il_effective_rate": 0.0495
+  }
+}
